@@ -1,5 +1,7 @@
-/*
- * Test the use of the Color method
+/*	Name: Blake Weichbrodt
+ *	Email: weichbrodt@wisc.edu
+ *	CS account: weichbrodt
+ *	Main class
  */
 import java.util.*;
 

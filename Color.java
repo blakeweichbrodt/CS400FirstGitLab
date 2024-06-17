@@ -1,4 +1,6 @@
-/*
+/*	Name: Blake Weichbrodt
+ *	Email: weichbrodt@wisc.edu
+ *	CS account: weichbrodt
  *	Color class
  */
 public class Color{
